@@ -1,7 +1,7 @@
 
 # My sweet setup
 
-This is losto of the tools I use for different tasks. The list is maintained so I can easily find the on-line tools when i need them after some period of time and to refer to it when giving advice to my friends and colleagues.
+This is list of my tools that I use for different tasks. The list is maintained so I can easily find tools (especially the on-line ones) when I need them after longer time period and to refer to it when giving advice to my friends and colleagues.
 
 Legend:
 
