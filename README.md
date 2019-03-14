@@ -18,6 +18,9 @@ Legend:
 
 ### Java Stacktrace Analysis
 
+* ⭐️ [FastThread](https://fastthread.io) — on-line tool
+* ⭐️ [Spotify Thread Dump Analyzer](https://spotify.github.io/threaddump-analyzer/) — simple, but very usable, doesn't send data to server
+* [jstack.review](https://jstack.review/) — simple, doesn't send data to server, allows comparing
 * `grep` — together with other CLI tools
 
 ### Java Heap Dump Analysis
