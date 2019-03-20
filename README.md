@@ -14,6 +14,11 @@ Legend:
 * IntelliJ Idea
 * SQuirreL
 
+## Docker
+
+* Dive (https://github.com/wagoodman/dive) — nice tool for exploring layers of Docker images
+
+
 ## Problem solving
 
 ### Java Stacktrace Analysis
