@@ -16,7 +16,7 @@ Legend:
 
 ## Docker
 
-* Dive (https://github.com/wagoodman/dive) — nice tool for exploring layers of Docker images
+* [Dive](https://github.com/wagoodman/dive) — nice tool for exploring layers of Docker images
 
 
 ## Problem solving
